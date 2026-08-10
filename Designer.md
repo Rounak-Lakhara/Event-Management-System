@@ -1,6 +1,6 @@
 
 
-# Authentication Pages
+# Authentication Pages 
 
 - Login 
 - Signup / Register 
