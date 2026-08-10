@@ -1,45 +1,39 @@
-🎨 DESIGNER Branch — Pages/Features List
 
-Authentication Pages
 
-Login Page
-Signup / Register Page
-Forgot Password Page
-Reset Password Page
-OTP Verification Page (agar mobile/email verify karna ho)
+# Authentication Pages
 
-Main Pages
+- Login 
+- Signup / Register 
+- Forgot Password 
+- Reset Password 
+- OTP Verification  (agar mobile/email verify karna ho)
 
-Home / Landing Page
-About Us Page
-Event Listing Page (all events with filters/search)
-Event Details Page (single event info)
-Event Category Page (Music, Sports, Wedding, Corporate etc.)
+## Main Page
 
-User Side
+- Home Address  
+- About Us 
+- Event Listing  (all events with filters/search)
+- Event Details  (single event info)
+- Event Category (Music, Sports, Wedding, Corporate etc.)
 
-User Profile Page
-Edit Profile Page
-My Bookings Page
-Booking History Page
-Notifications Page
+## User Side
 
-Booking Flow
+- User Profile 
+- Edit Profile 
+- My Bookings 
+- Booking History
 
-Ticket/Booking Form
-Payment Page (UI only, backend treasurer sambhalega)
-Booking Confirmation Page
-E-Ticket / Invoice Design
 
-Admin/Organizer Related (design support)
+## Booking Flow
 
-Admin Dashboard UI
-Create Event Form UI
-Manage Events UI
+- Ticket/Booking Form
+- Payment Method (UI only, backend treasurer sambhalega)
+- Booking Confirmation 
 
-Extra
 
-404 Error Page
-Contact Us Page
-Feedback/Review Page
-Footer & Header Design (common across all pages)
+
+## Extra
+
+- Contact Us 
+- Feedback/Review 
+
