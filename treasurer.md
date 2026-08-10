@@ -1,35 +1,35 @@
 # Authentication:-
 
-- Treasurer Login Page
-- Password Reset Page
+- Treasurer Login 
+- Password Reset 
 
 # Payment & Finance:-
 
-- Payment Gateway Integration Page
-- Add Payment Method Page (Card/UPI/Netbanking)
-- Payment Confirmation Page
-- Refund Request Page
-- Refund Status Page
+- Payment Gateway Integration 
+- Add Payment Method (Card/UPI/Netbanking)
+- Payment Confirmation 
+- Refund Request 
+- Refund Status 
 
 # Budget Management:-
 
-- Event Budget Overview Page
-- Expense Tracker Page
-- Income/Revenue Report Page
+- Event Budget Overview 
+- Expense Tracker 
+- Income/Revenue Report 
 - Add Expense Form
 - Add Income/Sponsorship Entry Form
 
 # Reports & Records:-
 
-- Transaction History Page
-- Monthly/Yearly Financial Report Page
-- Invoice Generator Page
+- Transaction History 
+- Monthly/Yearly Financial Report 
+- Invoice Generator 
 - Downloadable Reports (PDF/Excel export option)
 
 # Ticket Pricing:-
 
-- Set Ticket Price Page (per event)
-- Discount/Coupon Code Management Page
+- Set Ticket Price  (per event)
+- Discount/Coupon Code Management 
 
 # Dashboard:-
 
